@@ -3,6 +3,7 @@ https://github.com/rapid7/metasploit-framework
 
 Windows Installert: https://windows.metasploit.com/metasploitframework-latest.msi
 
+Update Ubuntu:  Run this command: sudo apt update
 
 Metasploit Build Status Maintainability Test Coverage Docker Pulls
 The Metasploit Framework is released under a BSD-style license. See COPYING for more details.
