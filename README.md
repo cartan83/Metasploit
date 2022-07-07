@@ -1,5 +1,6 @@
 # Metasploit
 https://github.com/rapid7/metasploit-framework
+https://www.darkoperator.com/installing-metasploit-in-ubunt
 
 Windows Installer GUI
 https://www.rapid7.com/products/metasploit/download/pro/thank-you/
