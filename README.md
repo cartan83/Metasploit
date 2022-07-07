@@ -1,6 +1,9 @@
 # Metasploit
 https://github.com/rapid7/metasploit-framework
 
+Windows Installer GUI
+https://www.rapid7.com/products/metasploit/download/pro/thank-you/
+
 Windows Installert: https://windows.metasploit.com/metasploitframework-latest.msi
 
 Update Ubuntu:  Run this command: sudo apt update Then type this: sudo apt-get upgrade
