@@ -2,6 +2,9 @@
 https://github.com/rapid7/metasploit-framework
 https://www.darkoperator.com/installing-metasploit-in-ubunt
 
+Install Metasploit:
+sudo apt-get install build-essential libreadline-dev libssl-dev libpq5 libpq-dev libreadline5 libsqlite3-dev libpcap-dev git-core autoconf postgresql pgadmin3 curl zlib1g-dev libxml2-dev libxslt1-dev libyaml-dev curl zlib1g-dev gawk bison libffi-dev libgdbm-dev libncurses5-dev libtool sqlite3 libgmp-dev gnupg2 dirmngr
+
 Windows Installer GUI
 https://www.rapid7.com/products/metasploit/download/pro/thank-you/
 
